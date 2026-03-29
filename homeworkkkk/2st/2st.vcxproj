@@ -24,6 +24,7 @@
     <ProjectGuid>{e7d83ab3-d12b-4f3c-9afb-492d78cbae4c}</ProjectGuid>
     <RootNamespace>My2st</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>구구단</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

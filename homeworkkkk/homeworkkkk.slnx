@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="2st/2st.vcxproj" />
+  <Project Path="2st/2st.vcxproj" Id="e7d83ab3-d12b-4f3c-9afb-492d78cbae4c" />
+  <Project Path="하노이탑/하노이탑.vcxproj" Id="7b9ae315-27c3-453a-9813-00a2e8cf4927" />
 </Solution>
