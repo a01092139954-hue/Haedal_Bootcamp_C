@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="if_else_test/if_else_test.vcxproj" />
+  <Project Path="if_else_test/if_else_test.vcxproj" Id="a7a4bbd0-2818-4e2d-8918-36642eaeb9b3" />
 </Solution>
